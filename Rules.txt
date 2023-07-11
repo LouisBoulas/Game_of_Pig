@@ -1,0 +1,10 @@
+The Game of Pig
+Pig is a two-player game played with a single 6-sided die. The object of the game is to accumulate
+100 points. A coin flip determines which player goes first. During each turn, a player repeatedly
+rolls the die, earning points equal to the face value of each roll, until
+• the player rolls a 1, in which case the player loses all points earned on that turn; or
+• the player decides to hold, adding all the points earned on the turn to the player’s total.
+At the end of a turn, the player hands over the die to the opponent. The player to accumulate 100
+points first wins.
+Write a console-driven application that allows a human player to play the game of Pig against
+a computer player. The computer player’s game strategy is to always hold after 3 rolls.
