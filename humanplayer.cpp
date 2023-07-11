@@ -1,7 +1,4 @@
-// CISC 2000  Fordham University  Spring 2020
-// Instructor: Vincent Mierlak
-//
-// HW 9: The Game of Pig.
+// The Game of Pig
 // File: humanplayer.cpp
 //       Implementation of HumanPlayer, a dervied class for a human player 
 //       in the game of Pig.
