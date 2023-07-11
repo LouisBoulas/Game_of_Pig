@@ -1,5 +1,4 @@
-// CISC 2000   Fordham University
-// Instructor: Vincent Mierlak
+// The Game of Pig
 // 
 // Header file humanplayer.h.
 // 
