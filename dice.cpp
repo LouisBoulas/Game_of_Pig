@@ -1,5 +1,4 @@
 // The Game of Pig
-// HW 9: The Game of Pig.
 // File: dice.cpp
 //       Implementation of Dice, a class that represents an n-sided die.
 
