@@ -1,6 +1,5 @@
 // The Game of Pig
 //
-// HW 9: The Game of Pig.
 // File: main.cpp
 //       Main program to play one game of Pig.
 
