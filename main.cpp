@@ -1,5 +1,4 @@
-// CISC 2000   Fordham University   Spring 2020
-// Instructor: Vincent Mierlak
+// The Game of Pig
 //
 // HW 9: The Game of Pig.
 // File: main.cpp
